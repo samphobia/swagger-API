@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "iEuOBYkU",
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "leanneGraham@gmail.com",
+      "password": "Bret"
+    },
+    {
+      "id": "0kFaJHB2",
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@gmail.com",
+      "password": "John"
+    },
+    {
+      "id": "ukjX0kFa",
+      "name": "Mary Magdalene",
+      "username": "mary",
+      "email": "marymagdalene@gmail.com",
+      "password": "mary"
+    }
+  ],
+  "Users": []
+}
